@@ -2,6 +2,9 @@
 
 Web application which allows user to track bugs and enhance their software development process. 
 
+## Product update:
+Application is still in development.
+
 ## Requirements
 
 For building and running the application you need:
